@@ -2,9 +2,9 @@
 # Station Météo
 ---
 Ceci est un projet de station météo pour le département GEI à l'INSA de Toulouse.
-$5 \times 6 = 30$
 
-$\frac{9}{6}$
+
+\(inline\)
 
 - modif local
 - modif en ligne
