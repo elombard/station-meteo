@@ -1,7 +1,7 @@
 # Station Météo
 Ceci est un projet de station météo pour le département GEI à l'INSA de Toulouse.
 
-- création fork 
+- modif local
 - modif en ligne
 
 ## Titre 1
@@ -11,4 +11,4 @@ paragraphe
 paragraphe
 
 1. texte
-2. autre texte
+2. coucou je viens de mettre à jour
