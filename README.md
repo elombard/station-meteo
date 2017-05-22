@@ -3,8 +3,7 @@
 ---
 Ceci est un projet de station météo pour le département GEI à l'INSA de Toulouse.
 
-
-\(inline\)
+![](http://www.conrad.fr/medias/global/ce/0000_0999/0400/0460/0460/046079_LB_00_FB.EPS_1000.jpg)
 
 - modif local
 - modif en ligne
